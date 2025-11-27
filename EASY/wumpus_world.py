@@ -216,6 +216,12 @@ class BangaloreWumpusWorld:
         start = tuple(self.agent_pos)
         goal = self.goal_pos
         
+        # Check if already at goal
+        if start == goal:
+            self.message = "Already at goal!"
+            print("Already at goal position!")
+            return []
+        
         # Priority queue: (f_score, counter, position)
         # Counter is used to break ties
         counter = 0
