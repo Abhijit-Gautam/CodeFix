@@ -1,6 +1,6 @@
 # AI CODEFIX 2025 - Solutions
 
-## Team: Abhijit Gautam
+## Team: Modi Over Trump
 
 This repository contains solutions for the AI CODEFIX 2025 coding competition.
 
@@ -44,5 +44,3 @@ This repository contains solutions for the AI CODEFIX 2025 coding competition.
 - **Organized by**: Dept. of AI&ML & AI&DS
 - **In collaboration with**: AI Planet, Agrowvitz, Tensor AI Club
 
-https://forms.gle/H2p3yvKHMZs2veSv8
-feedback form
