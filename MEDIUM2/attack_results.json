@@ -1,0 +1,115 @@
+{
+  "success_rate": 100.0,
+  "successful_attacks": 18,
+  "total_attacks": 18,
+  "results": [
+    {
+      "image": "class_0_img_19.png",
+      "original_class": "T-shirt/top",
+      "adversarial_class": "Shirt",
+      "success": true
+    },
+    {
+      "image": "class_0_img_27.png",
+      "original_class": "T-shirt/top",
+      "adversarial_class": "Coat",
+      "success": true
+    },
+    {
+      "image": "class_1_img_2.png",
+      "original_class": "Trouser",
+      "adversarial_class": "Coat",
+      "success": true
+    },
+    {
+      "image": "class_2_img_1.png",
+      "original_class": "Pullover",
+      "adversarial_class": "Shirt",
+      "success": true
+    },
+    {
+      "image": "class_2_img_16.png",
+      "original_class": "Pullover",
+      "adversarial_class": "Shirt",
+      "success": true
+    },
+    {
+      "image": "class_3_img_13.png",
+      "original_class": "Dress",
+      "adversarial_class": "T-shirt/top",
+      "success": true
+    },
+    {
+      "image": "class_3_img_29.png",
+      "original_class": "Dress",
+      "adversarial_class": "Coat",
+      "success": true
+    },
+    {
+      "image": "class_4_img_10.png",
+      "original_class": "Coat",
+      "adversarial_class": "Shirt",
+      "success": true
+    },
+    {
+      "image": "class_4_img_6.png",
+      "original_class": "Coat",
+      "adversarial_class": "Pullover",
+      "success": true
+    },
+    {
+      "image": "class_5_img_11.png",
+      "original_class": "Sandal",
+      "adversarial_class": "Sneaker",
+      "success": true
+    },
+    {
+      "image": "class_5_img_8.png",
+      "original_class": "Sandal",
+      "adversarial_class": "Sneaker",
+      "success": true
+    },
+    {
+      "image": "class_6_img_7.png",
+      "original_class": "Shirt",
+      "adversarial_class": "Coat",
+      "success": true
+    },
+    {
+      "image": "class_7_img_12.png",
+      "original_class": "Sandal",
+      "adversarial_class": "Shirt",
+      "success": true
+    },
+    {
+      "image": "class_7_img_9.png",
+      "original_class": "Sneaker",
+      "adversarial_class": "Sandal",
+      "success": true
+    },
+    {
+      "image": "class_8_img_18.png",
+      "original_class": "Bag",
+      "adversarial_class": "Shirt",
+      "success": true
+    },
+    {
+      "image": "class_8_img_30.png",
+      "original_class": "Bag",
+      "adversarial_class": "Shirt",
+      "success": true
+    },
+    {
+      "image": "class_9_img_0.png",
+      "original_class": "Ankle boot",
+      "adversarial_class": "Sandal",
+      "success": true
+    },
+    {
+      "image": "class_9_img_23.png",
+      "original_class": "Sandal",
+      "adversarial_class": "Shirt",
+      "success": true
+    }
+  ]
+}
