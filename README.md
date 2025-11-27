@@ -43,3 +43,6 @@ This repository contains solutions for the AI CODEFIX 2025 coding competition.
 - **Event**: AI CODEFIX 2025
 - **Organized by**: Dept. of AI&ML & AI&DS
 - **In collaboration with**: AI Planet, Agrowvitz, Tensor AI Club
+
+https://forms.gle/H2p3yvKHMZs2veSv8
+feedback form
