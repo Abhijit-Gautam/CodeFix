@@ -1,6 +1,6 @@
 {
-  "description": "Hidden test cases for KV-Cached Multi-Head Attention - ORGANIZERS ONLY",
-  "note": "These test cases include expected outputs for automated grading. Do NOT share with participants.",
+  "description": "Hidden test cases for KV-Cached Multi-Head Attention",
+  "note": "These test cases include expected outputs.",
   "test_cases": [
     {
       "id": 1,
@@ -487,3 +487,4 @@
     "test_9_10_weight": 15
   }
 }
+
